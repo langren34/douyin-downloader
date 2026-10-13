@@ -1,0 +1,14 @@
+# 运行产物
+douyin_downloads/
+__pycache__/
+*.pyc
+
+# 打包产物
+build/
+dist/
+*.spec
+douyin_downloader.exe
+
+# 临时/测试文件
+_preview_test.mp4
+_probe_*.py
