@@ -1,6 +1,6 @@
 # 抖音视频下载工具（Douyin Downloader）
 
-> 佐喃社区出品（测试版） · zzznan.com
+> 佐喃社区出品（测试版） · zzznan.com · v1.0.0
 
 一个 Windows 下简单好用的抖音视频下载工具：粘贴分享口令/链接，一键下载无水印视频。
 
